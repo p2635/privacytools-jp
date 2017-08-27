@@ -2,7 +2,7 @@
 
 _Encryption Against Global Mass Surveillance._
 
-Japanese translation of privacytools.io
+Japanese translation of privacytools.io by P Wong and T Ariie
 
 ## Software Criteria
 
